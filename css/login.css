@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins:wght@300&display=swap');
 
 *{
-    background-color: rgb(15, 4, 34);
+    background-color: rgb(255, 255, 255);
     color: white;
     font-family: "poppins", Arial, Helvetica, sans-serif;
 }
@@ -38,7 +38,7 @@
 }
 
 .container-form-signIn{
-    padding-top: 10pt;
+    padding-top: 2rem;
 }
 
 .form-signIn input{
