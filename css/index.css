@@ -20,7 +20,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: var(--bg);
     color: #fff;
-    min-height: 5000px;
+    /* min-height: 5000px; */
 }
 
 /* Navbar */
@@ -215,7 +215,7 @@ body{
 }
 
 .menu .row .menu-card img{
-    border-radius: 50%;
+    border-radius: 10%;
     width: 80%;
 }
 
